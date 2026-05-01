@@ -1,0 +1,16 @@
+server:
+  port: 12000
+
+spring:
+  application:
+    name: test-admin-server
+#  boot:
+#    admin:
+#      client:
+#        url: http://localhost:12000
+#
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: "*"
